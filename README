@@ -1,8 +1,14 @@
-Hello,
-Here are my assignment "Analyzing Historical Stock/Revenue Data and Building a Dashboard". You can find the answers in the following files:
+# Analyzing Historical StockRevenue Data and Building a Dashboard
+Submitted by: Shani Friedman
 
+## Overview: 
+This project analyzes historical stock and revenue data for Tesla (TSLA) and GameStop (GME) using `yfinance` and web scraping, 
+and visualize insights through a dashboard built with Plotly.
+
+## Instructions for Reviewers:
+Here is my assignment "Analyzing Historical Stock/Revenue Data and Building a Dashboard". You can find the answers in the following screenshots and files -
 Question 1 - Extracting Tesla Stock Data Using yfinance – "question 1.png" 
-Question 2 - Extracting Tesla Revenue Data Using Webscraping - "question 2 part 1.png" and ""question 2 part 2.png".
+Question 2 - Extracting Tesla Revenue Data Using Webscraping - "question 2 part 1.png" and "question 2 part 2.png".
 Question 3 - Extracting GameStop Stock Data Using yfinance - "question 3.png".
 Question 4 - Extracting GameStop Revenue Data Using Webscraping - "question 4 part 1.png" and "question 4 part 2.png".
 Question 5 - Tesla Stock and Revenue Dashboard – "4 Hands-on Lab Analyzing Historical StockRevenue Data and Building a Dashboard with answers.ipynb" .
